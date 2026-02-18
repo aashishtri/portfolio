@@ -21,7 +21,7 @@ export default function Portfolio() {
           <a href="https://github.com/aashishtri" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
             <Github size={20} /> <span className="hidden sm:inline">github.com/aashishtri</span>
           </a>
-          <a href="https://linkedin.com/in/aashish-tripathi" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+          <a href="https://www.linkedin.com/in/aashish-tripathi-9075b7155/" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
             <Linkedin size={20} /> <span className="hidden sm:inline">in/aashish-tripathi</span>
           </a>
           <a href="mailto:aashishk1999@gmail.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
